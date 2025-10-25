@@ -177,7 +177,14 @@ Crop_Recommendation_System/
 └── crop_app                    # Saved ML model
 ```
 
----
+## Output images -
+first page-
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/f8befcdf-d260-4668-ab44-71e3a3d95aec" />
+second page-
+<img width="1892" height="909" alt="image" src="https://github.com/user-attachments/assets/6043ea1a-8595-47ff-97f9-9b1c59aae7cb" />
+third page-
+<img width="1897" height="905" alt="image" src="https://github.com/user-attachments/assets/895e268d-d58a-4181-8a8b-600c08e24ce5" />
+
 
 ## 🧑‍💻 Author
 
