@@ -6,14 +6,14 @@ A **Machine Learning-based web application** that recommends the most suitable c
 
 This project was built **from scratch** using Python (Jupyter Notebook) and Flask for the backend, with a simple HTML, CSS, and JS-based frontend.
 
----
+
 
 ## 📘 Project Overview
 
 This system uses **machine learning algorithms** to predict the best crop suited for given environmental and soil conditions.
 The dataset contains over **2000+ entries** of different crops including rice, maize, chickpea, kidney beans, pigeon peas, moth beans, mung beans, black gram, lentil, pomegranate, banana, mango, grapes, watermelon, muskmelon, apple, orange, papaya, coconut, cotton, jute, and coffee.
 
----
+
 
 ## 🧪 Machine Learning Model
 
@@ -39,7 +39,7 @@ The dataset contains over **2000+ entries** of different crops including rice, m
 | **pH**             | Determines soil acidity or alkalinity, affecting nutrient uptake |
 | **Rainfall**       | Provides necessary water supply for crop growth                  |
 
----
+
 
 ## ⚙️ Model Training and Evaluation
 
@@ -55,7 +55,7 @@ The model was trained and tested using a **train-test split** approach on four a
 Among these, **Random Forest** achieved the highest accuracy and handled overfitting better than others.
 Hence, it was selected as the final model.
 
----
+
 
 ## 💾 Model Saving Using Joblib
 
@@ -72,7 +72,7 @@ Joblib is a lightweight Python library used for **serializing and deserializing 
 
 The final model was saved as **`crop_app`**.
 
----
+
 
 ## 🧩 Flask Application (Backend)
 
@@ -89,7 +89,7 @@ A Flask web application is developed to interact with the trained ML model.
 * Validates inputs and predicts the most suitable crop using the loaded model.
 * Displays the result on the prediction page.
 
----
+
 
 ## 🎨 Frontend Overview
 
@@ -98,7 +98,7 @@ A Flask web application is developed to interact with the trained ML model.
 
 Frontend is designed with **basic HTML, CSS, and JavaScript**, ensuring simplicity and clarity for users.
 
----
+
 
 ## 📊 Additional Work
 
@@ -118,7 +118,7 @@ Additionally:
 * A **Telugu explanation video (.mp4)** made using **NotebookLM** is included.
 * The repository also contains **project documentation** and a **presentation (PPT)** for reference.
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -151,14 +151,14 @@ Click on the **“Code” → “Download ZIP”** option and extract it.
 3. Click **Predict** again.
 4. The result page will display the **recommended crop** for the given conditions.
 
----
+
 
 ## 🤝 Contributions
 
 Contributions, ideas, or further developments (like deployment, UI improvement, or adding new models) are **welcome**!
 You can **fork this repository** and experiment with your own enhancements.
 
----
+
 
 ## 📂 Repository Contents
 
