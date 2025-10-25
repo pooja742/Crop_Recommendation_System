@@ -1,0 +1,28 @@
+input[type="submit"] {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  padding: 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: darkslategray;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+body {
+  background-image: url(one.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+main {
+  text-align: center;
+  padding: 50px;
+}
+
+h2 {
+  font-size: 25px;
+  color: rgb(218, 216, 216);
+}
